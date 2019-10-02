@@ -1,5 +1,5 @@
 # Smile-Detection-DeepLearning
-###This project was my internship project that was about detecting smile, laugh and poker faces. I have used torch library and resnet34 pretrained model for training my model. You can find the main dataset which contains not-resized and non-cropped images hereunder.
+### This project was my internship project that was about detecting smile, laugh and poker faces. I have used torch library and resnet34 pretrained model for training my model. You can find the main dataset which contains not-resized and non-cropped images hereunder.
 ![face](https://user-images.githubusercontent.com/41823988/66033776-d197bd80-e514-11e9-94d4-49c884606810.gif)
 
 ### https://drive.google.com/open?id=1qQgzHkYmKueY8tyh0f32EIq0Bohoyuvl
